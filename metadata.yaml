@@ -1,0 +1,31 @@
+_repo: Introduction-to-Mathematical-Philosophy_41654
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Russell, Bertrand
+    aliases:
+    - Russell, Bertrand Russell, 3d Earl
+    - Russell, Bertrand A. W. (Bertrand Arthur William)
+    birthdate: 1872
+    deathdate: 1970
+    gutenberg_agent_id: '355'
+    url: http://www.gutenberg.org/2009/agents/355
+    wikipedia: http://en.wikipedia.org/wiki/Bertrand_Russell
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2012-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41654'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Mathematics -- Philosophy'
+title: Introduction to Mathematical Philosophy
+url: http://www.gutenberg.org/ebooks/41654
